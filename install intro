@@ -1,0 +1,40 @@
+wget http://archive.apache.org/dist/nutch/1.7/apache-nutch-1.7-bin.tar.gz
+-bash: wget: command not found
+
+https://brew.sh/
+Homebrew
+The Missing Package Manager for macOS (or Linux)
+
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+This installation may not succeed.
+After installation, you will encounter build failures with some formulae.
+Please create pull requests instead of asking for help on Homebrew's GitHub,
+Discourse, Twitter or IRC. You are responsible for resolving any issues you
+experience while you are running this old version.
+
+==> This script will install:
+/usr/local/bin/brew
+/usr/local/share/doc/homebrew
+/usr/local/share/man/man1/brew.1
+...
+
+Press RETURN to continue or any other key to abort
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
